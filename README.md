@@ -22,9 +22,9 @@ To use the tool, simply visit the [GitGittu website](https://shrudra.github.io/g
 ### Following
 ![Following](screenshots/following.jpeg)
 
-## Star ⭐ History
+## Star History
 
-![Star History Chart](https://api.star-history.com/svg?repos=shrudra/gitgittu&type=date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Neoooby-Doo/gitgittu&type=Date)](https://www.star-history.com/#Neoooby-Doo/gitgittu&Date)
 
 ## Development
 
